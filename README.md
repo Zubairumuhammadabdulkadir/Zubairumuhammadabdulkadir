@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zubairumuhammadabdulkadir
-- 👀 I’m interested in ... cosing
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...java
 - 📫 How to reach me ...zubairum696@gmail.com
